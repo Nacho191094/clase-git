@@ -1,0 +1,9 @@
+git config --global user.name "David Lescano"
+git config --global user.email "mail@asd.com"
+
+git config user.name || user.email
+
+git config --list
+
+git init /Crea una carpeta del seguimiento/
+
